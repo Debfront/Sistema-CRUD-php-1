@@ -1,7 +1,7 @@
 <?php
 	
 	
-	//Sessão do usuário logado
+	//Sessão do usuário logado.
 	function Começar_Sessao_Usuario(){
 		session_start();
 		$usuario = $_SESSION['usuario'];
