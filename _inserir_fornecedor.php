@@ -6,7 +6,7 @@
 <div class="container" style="width: 400px">
 <center>
 
-<h3><?php echo "'".$fornecedor."'"." Adicionado com sucesso! "; ?></h3>
+<h3><?php echo "'".$fornecedor."'"." Adicionado com Sucesso! "; ?></h3>
 
 <div style="margin-top:10px">
 <a href="_adicionar_fornecedor.php" class= "btn btn-sm btn-warning" style="color:#fff">Voltar</a>
