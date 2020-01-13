@@ -7,7 +7,7 @@
 <div class="container" style="width: 500px">
 <center>
 
-<h4><?php echo "Produto '".$produto."' adicionado com sucesso!"; ?></h4>
+<h4><?php echo "Produto '".$produto."' Adicionado com sucesso!"; ?></h4>
 
 </center>
 <div style="padding-top: 20px">
