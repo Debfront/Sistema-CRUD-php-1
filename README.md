@@ -1,2 +1,1 @@
-# Sistema feito durante curso utilizando Crud em PHP + Bootstrap.
- 
+# Sistema feito em outubro de 2019, no entanto estou subindo novamente os arquivos com alterações. 
