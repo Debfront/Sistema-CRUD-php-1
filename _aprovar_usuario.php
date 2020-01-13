@@ -23,4 +23,5 @@ if ($nivel == 2){
     echo "Conferente Aprovado";
  }
  header("Location : aprovar_usuario.php");
+ 
 ?>
