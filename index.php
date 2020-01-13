@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-	//Se ja tiver logado, não precisa logar novamente
+	//Se já tiver logado, não precisa logar novamente
 	if (isset($_COOKIE['user'])) {
          header("Location: menu.php");
   	}

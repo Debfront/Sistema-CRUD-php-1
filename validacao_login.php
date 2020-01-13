@@ -1,6 +1,6 @@
 <?php
 include 'conexao.php';
-//include 'script2/password.php';
+//include 'script2/password.php'; Alteração 
 
 $usuario = $_POST['usuario'];
 $senhausuario = $_POST['senha'];
